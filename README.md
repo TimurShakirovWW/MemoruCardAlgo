@@ -1,2 +1,2 @@
-# MemoruCardAlgoPyQt5
+# MemoryCardAlgoPyQt5
 Это приложение-тест. В нем вы можете проверить ваши знания о играх. на PyQt5
